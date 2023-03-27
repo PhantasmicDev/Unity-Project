@@ -1,0 +1,4 @@
+[submodule "Packages/com.PhantasmicGames.SelfSubmodule"]
+	path = Packages/com.PhantasmicGames.SelfSubmodule
+	url = https://github.com/PhantasmicDev/Unity-Project.git
+	branch = upm
